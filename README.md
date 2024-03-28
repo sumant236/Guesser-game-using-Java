@@ -1,0 +1,1 @@
+It's a simple game in which guesser will say a number to captain, captain will ask 3 players to guess the number guesser said. Captain will compare all the 3 numbers with guessed number and in result declare who is winner.
